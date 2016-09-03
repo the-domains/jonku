@@ -1,19 +1,4 @@
-name: JONKU
-favicon: null
-layout_spectrum: 0.3789125375915319
 typography_spectrum: 0.8729240274988115
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5046494782436639
   saturation: 0.48043549293652177
   rhythmicContrast: 0.9097011310514063
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3789125375915319
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: JONKU
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: FILMMAKER
 purpose: []
